@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"edu.sjsu.assignment2","c":"MyFile","l":"MyFile()","url":"%3Cinit%3E()"},{"p":"edu.sjsu.assignment2","c":"MyFile","l":"writePrimes(String, String)","url":"writePrimes(java.lang.String,java.lang.String)"}]
